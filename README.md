@@ -35,6 +35,6 @@ This course involves using Python to explore many different types of data. It co
 - Building data pipelines
 
 ## Certificates
-Verification of the certificate can be found [here](https://www.coursera.org/account/accomplishments/verify/D8MTZGGVZR9E):
+Certificate verification can be found [here](https://www.coursera.org/account/accomplishments/verify/D8MTZGGVZR9E):
 
 ![image](https://github.com/ethanbenavides/Data-Analysis-with-Python/assets/57383185/3119b7c2-37bf-42be-b15f-86b357920bb4)
